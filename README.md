@@ -1,1 +1,1 @@
-#Uncover Newspaper
+Uncover Newspaper
